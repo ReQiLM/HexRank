@@ -1,4 +1,4 @@
-# HexRank 2.1.5
+# HexRank
 
 海克斯大乱斗胜率助手
 
